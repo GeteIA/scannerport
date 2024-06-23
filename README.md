@@ -1,4 +1,4 @@
-![imagem](https://imgur.com/qojDlMr)
+![imagem](https://i.imgur.com/qojDlMr.png)
 
 
 Importação do módulo socket
