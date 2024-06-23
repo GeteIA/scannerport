@@ -1,3 +1,6 @@
+![imagem](https://imgur.com/qojDlMr)
+
+
 Importação do módulo socket
 
 O módulo socket é importado para permitir a comunicação em rede. Ele fornece a interface necessária para criar, conectar e gerenciar sockets, que são os pontos de extremidade de uma comunicação bidirecional.
